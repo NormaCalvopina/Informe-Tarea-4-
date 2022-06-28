@@ -1,11 +1,12 @@
 # Informe_Tarea4
 Resolución de ejercicios Capitulo 7 y 8 del Libro de Floyd (Octava edición)
 
-### Circuitos en Series (Capitulo 5)
+### Circuitos en Serie-Paraleo (Capitulo 7)
 
 ### Circuitos en Paralelo (Capitulo 6)
 
 ### 1. OBJETIVOS
+
 
 #### Objetivos Generales
 
@@ -24,7 +25,6 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 - Determinar el efecto de carga de un voltímetro en un circuito 
 
 ### 2. MARCO TEORICO
-
 
 ## Circuitos en Serie-Paralelo (Capitulo 7)
 
