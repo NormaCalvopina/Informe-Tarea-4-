@@ -1,8 +1,7 @@
 # Informe_Tarea4
 Resolución de ejercicios Capitulo 7 y 8 del Libro de Floyd (Octava edición)
 
-### Circuitos en Serie-Paraleo (Capitulo 7)
-
+### Circuitos en Serie-Paralelo (Capitulo 7)
 ### Circuitos en Paralelo (Capitulo 6)
 
 ### 1. OBJETIVOS
