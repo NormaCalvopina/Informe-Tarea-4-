@@ -27,3 +27,4 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 
 
 ## Circuitos en Serie-Paralelo (Capitulo 7)
+
