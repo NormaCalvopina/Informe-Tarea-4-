@@ -2,7 +2,7 @@
 Resolución de ejercicios Capitulo 7 y 8 del Libro de Floyd (Octava edición)
 
 ### Circuitos en Serie-Paralelo (Capitulo 7)
-### Circuitos en Paralelo (Capitulo 6)
+### Teoremas de Circuitos y Conversiones (Capitulo 8)
 
 ### 1. OBJETIVOS
 
@@ -26,4 +26,5 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 ### 2. MARCO TEORICO
 
 ## Circuitos en Serie-Paralelo (Capitulo 7)
+
 
