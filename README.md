@@ -27,4 +27,5 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 
 ## Circuitos en Serie-Paralelo (Capitulo 7)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20231006.png)
 
