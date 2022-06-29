@@ -60,4 +60,4 @@ Como I1=I3 e I2 = I4, todos los términos de corriente se cancelan, y permanecen
 
 Se obtiene la siguiente fórmula que permite encontrar el valor del resistor R1 en función de los demás valores de resistor cuando el puente está equilibrado. También se puede encontrar el valor de cualquier otro resistor del mismo modo
 
-
+![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20234656.png)
