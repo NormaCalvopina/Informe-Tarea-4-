@@ -64,3 +64,5 @@ Se obtiene la siguiente fórmula que permite encontrar el valor del resistor R1 
 
 #### PUENTE WHEATSTONE DESEQUILIBRADO
 
+![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20235901.png)
+
