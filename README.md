@@ -70,3 +70,5 @@ Se obtiene la siguiente fórmula que permite encontrar el valor del resistor R1 
 
 Si se va a medir temperatura, el transductor puede ser un termistor, el cual es sensible a la temperatura. La resistencia del termistor cambia de manera predecible a medida que cambia la temperatura. Un cambio de temperatura cambia la resistencia del termistor, lo que provoca un cambio correspondiente en el voltaje de salida del puente a medida que se desequilibra. El voltaje de salida es proporcional a la temperatura; por consiguiente, o un voltímetro conectado entre la salida puede ser calibrado para mostrar la temperatura o el voltaje de salida puede ser amplificado y convertido a forma digital para controlar en pantalla la visualización de la temperatura.
 
+##  Teoremas de Circuitos y Conversiones (Capitulo 8)
+
