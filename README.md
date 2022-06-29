@@ -52,5 +52,11 @@ Cuando el puente está equilibrado, los voltajes entre los extremos de R1 y R2 s
 
 Sustituyendo V por IR de acuerdo con la ley de Ohm se obtiene
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20234628.png)
+
+Como I1=I3 e I2 = I4, todos los términos de corriente se cancelan, y permanecen las relaciones de resistor
+
+
+Esta fórmula permite encontrar el valor del resistor R1 en función de los demás valores de resistor cuando el puente está equilibrado. También se puede encontrar el valor de cualquier otro resistor del mismo modo
+
 
