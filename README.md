@@ -52,5 +52,5 @@ Cuando el puente está equilibrado, los voltajes entre los extremos de R1 y R2 s
 
 Sustituyendo V por IR de acuerdo con la ley de Ohm se obtiene
 
-
+![](
 
