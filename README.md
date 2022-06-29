@@ -36,7 +36,13 @@ Se simplificar escalón por escalón, comenzando en el lado más alejado de la f
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20231705.png)
 
+#### PUENTE DE WHEATSTONE
+
 ![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20233454.png)
+
+#### PUENTE WHEATSTONE EQUILIBRADO
+
+El puente Wheatstone se encuentra en la condición de puente equilibrado cuando el voltaje de salida (VSALIDA) entre las terminales A y B es igual a cero.
 
 
 
