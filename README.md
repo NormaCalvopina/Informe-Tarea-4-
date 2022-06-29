@@ -29,3 +29,12 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20231006.png)
 
+#### REDES EN ESCALERA
+
+Una red resistiva en escalera es un tipo especial de circuito en serie-paralelo. La red en escalera R/2R se utiliza comúnmente para reducir voltajes a ciertos valores ponderados para conversión de digital a analógica.
+Se simplificar escalón por escalón, comenzando en el lado más alejado de la fuente. De este modo, se puede determinar la corriente en cualquier rama o el voltaje en cualquier nodo, como en el ejemplo:
+
+
+
+
+
