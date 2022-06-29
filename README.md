@@ -48,5 +48,9 @@ El puente Wheatstone se encuentra en la condición de puente equilibrado cuando 
 
 Cuando el puente está equilibrado, los voltajes entre los extremos de R1 y R2 son iguales (V1=V2) y los voltajes entre los extremos de R3 y R4 son iguales (V3=V4)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea4/blob/main/fotos/Captura%20de%20pantalla%202022-06-28%20233925.png)
+
+Sustituyendo V por IR de acuerdo con la ley de Ohm se obtiene
+
 
 
