@@ -171,6 +171,69 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 
 ![image](https://user-images.githubusercontent.com/105259381/176614145-3e1f19da-b87e-42cb-b068-7bd30d204ebf.png)
 
+####  SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
+8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0kΩ. ¿Cuál es el otro resistor?
+
+![image](https://user-images.githubusercontent.com/105259381/176615761-44157d4f-bfd3-4069-9e4f-897177fb7b0b.png)
+
+10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+![image](https://user-images.githubusercontent.com/105259381/176615824-87fff8d4-8a13-402b-9473-8504e6ba3046.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176615849-163c7019-c8f2-43b3-a6e0-b90e30e2eb81.png)
+
+
+12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+
+![image](https://user-images.githubusercontent.com/105259381/176615919-c2c0d73c-adc6-4a96-9c8e-03c9c8cf5b88.png)
+
+Para el literal a 
+
+![image](https://user-images.githubusercontent.com/105259381/176616018-4930071e-0ce7-407c-8717-544f07ec9089.png)
+
+Para el literal b
+
+![image](https://user-images.githubusercontent.com/105259381/176616078-9d4119b0-63e2-455d-8211-7f22d4130fad.png)
+
+Para el literal c
+
+![image](https://user-images.githubusercontent.com/105259381/176616127-547a4e59-fc2b-47c2-a684-c46da2e31d3b.png)
+
+14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![image](https://user-images.githubusercontent.com/105259381/176616589-8d494842-28cd-4c0f-9eea-62bb80779842.png)
+
+El 1,8 kΩ y los dos 1 kΩ están en cortocircuito.
+
+16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+![image](https://user-images.githubusercontent.com/105259381/176618330-0a50289e-28d9-42da-a730-2f7d2047dfb8.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176618375-417071da-d77e-4dc9-a0d3-2e9ec5006049.png)
+
+18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje
+
+![image](https://user-images.githubusercontent.com/105259381/176619009-02df0916-8a86-4798-a2b3-5d3e078fb481.png)
+
+20. Determine el voltaje, VAB, en la figura 7-69.
+
+![image](https://user-images.githubusercontent.com/105259381/176619738-5eee6374-93b0-4b2a-8694-44059a984213.png)
+
+Resitencia de la rama derecha 
+
+![image](https://user-images.githubusercontent.com/105259381/176619785-bfb4e09f-2ddc-4aad-97a0-f0c4f9d25af0.png)
+
+Resistencia de la rama izquierda
+
+![image](https://user-images.githubusercontent.com/105259381/176619967-fca7f09c-241c-44e4-aa41-8baaa1829549.png)
+
+Resistencia total y Corriente total
+
+![image](https://user-images.githubusercontent.com/105259381/176620041-5c556f95-6ac3-4aa3-8e64-fca199fb969b.png)
+
+Corriente de rama izquierda y derecha 
+
+![image](https://user-images.githubusercontent.com/105259381/176620084-efd9d414-32c3-4839-8db3-c81551e34d63.png)
 
 
