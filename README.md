@@ -142,7 +142,7 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 ![image](https://user-images.githubusercontent.com/105259381/176607701-c5e5805f-ca9e-454c-8467-99e031158d22.png)
 
 
-![image](https://user-images.githubusercontent.com/105259381/176608143-2813b299-ea39-4dfa-ae28-13980b2b2784.png)
+![image](https://user-images.githubusercontent.com/105259381/176609523-24218135-382f-4003-8b8d-6243e574387c.png)
 
 
 ## Resolución de los ejercicios Capítulo 7 
