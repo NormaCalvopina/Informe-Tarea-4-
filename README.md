@@ -88,11 +88,11 @@ Si RS es muy pequeño comparado con RL, la fuente se aproxima a la situación id
 
 El voltaje de salida disminuye significativamente conforme la resistencia de la carga se reduce en comparación con la resistencia interna de la fuente.
 
-#### Coversiones de Fuente
+#### Conversiones de Fuente
 
-![image](https://user-images.githubusercontent.com/105259381/176599543-3fe6bd5b-95a2-4e26-9c3c-ce4043efc597.png)
+![image](https://user-images.githubusercontent.com/105259381/176610218-4a879337-66bd-41c2-ae42-69da5b0ca1e7.png)
 
-#### Teorema de Superposicón
+#### Teorema de Superposición
 
 En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas. La corriente total en la rama es la suma algebraica de las corrientes individuales presentes en dicha rama. 
 
