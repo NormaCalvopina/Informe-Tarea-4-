@@ -72,3 +72,78 @@ Si se va a medir temperatura, el transductor puede ser un termistor, el cual es 
 
 ##  Teoremas de Circuitos y Conversiones (Capitulo 8)
 
+Fuente de voltaje de CD
+
+La fuente de voltaje de cd idealmente proporciona un voltaje constante a una carga, incluso cuando la resistencia de ésta varía.
+
+La siguiente figura es el muy conocido símbolo empleado para identificar una fuente de voltaje de cd ideal.
+
+![image](https://user-images.githubusercontent.com/105259381/176596588-78d7f4fd-cf11-4ab3-863a-af2412d709d9.png)
+
+En realidad, ninguna fuente de voltaje es ideal; sin embargo, las fuentes de potencia regulada se aproximan a la situación ideal cuando funcionan dentro de la corriente de salida especificada.
+
+#### Carga de la fuente de voltaje
+
+Si RS es muy pequeño comparado con RL, la fuente se aproxima a la situación ideal porque casi todo el voltaje de fuente, VS, aparece entre los extremos de la resistencia más grande, RL. Muy poco voltaje actúa entre los extremos de la resistencia interna, RS. Si RL cambia, la mayor parte del voltaje de fuente permanece entre las terminales de salida en tanto RL sea mucho más grande que RS. Por consiguiente, ocurre un cambio muy pequeño en el voltaje de salida. Mientras más grande es RL, en comparación con RS, menos cambio ocurre en el voltaje de salida.
+
+El voltaje de salida disminuye significativamente conforme la resistencia de la carga se reduce en comparación con la resistencia interna de la fuente.
+
+#### Coversiones de Fuente
+
+![image](https://user-images.githubusercontent.com/105259381/176599543-3fe6bd5b-95a2-4e26-9c3c-ce4043efc597.png)
+
+#### Teorema de Superposicón
+
+En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas. La corriente total en la rama es la suma algebraica de las corrientes individuales presentes en dicha rama. 
+
+![image](https://user-images.githubusercontent.com/105259381/176600566-207a1b15-4df5-4e58-9481-91b777419f1b.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176601225-24c17faf-f663-415b-a7ba-59c4f3a7a011.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176601542-d16276ae-9107-4ce4-9cfc-17d025a13409.png)
+
+#### Teorema de Thevenin
+
+El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
+
+En un circuito eléctrico, el voltaje equivalente de Thevenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida. 
+Cualquier componente conectado entre estas dos terminales “ve” efectivamente a VTH en seriecon RTH. Como lo define el teorema de Thevenin.
+
+La resistencia equivalente de Thevenin (RTH) es la resistencia total que aparece entre dos terminales en un circuito dado que tiene todas las fuentes reemplazadas por sus resistencias internas.
+
+Ejemplo de la simplificación de un circuito mediante el Teorema de Thevenin
+
+![image](https://user-images.githubusercontent.com/105259381/176601966-003b438c-a7c9-4874-9a44-310a3bc9e66d.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176602002-861f1dbe-cbe6-4855-8095-03088b1d849e.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176602016-f142a259-b784-4a03-a6b3-45294928331b.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176604937-f97054ef-8e3f-4d5d-bd6b-bd632c4ea626.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176605823-3b315125-3a4c-44e9-9239-1bbcf1acbad4.png)
+
+#### Teorema de Norton
+
+Cualquier resistor de carga conectado entre las terminales de salida de un circuito equivalente Norton tendrá la misma corriente a través de él y el mismo voltaje entre sus terminales como si estuviera conectado a las terminales de salida del circuito original.
+
+![image](https://user-images.githubusercontent.com/105259381/176606440-1436283d-1c29-4c8e-a8e4-40d43ea445ea.png)
+
+#### Teorema de transferencia de potencia máxima 
+
+Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+
+#### Conversiones Delta a Y, y Y a Delta
+
+![image](https://user-images.githubusercontent.com/105259381/176608228-847ce084-72d6-4a95-8437-a35d2cc1f7c9.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176607701-c5e5805f-ca9e-454c-8467-99e031158d22.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176608143-2813b299-ea39-4dfa-ae28-13980b2b2784.png)
+
+
+## Resolución de los ejercicios Capítulo 7 
+
