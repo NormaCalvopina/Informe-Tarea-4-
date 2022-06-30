@@ -380,9 +380,31 @@ Si R2 se abre, VA=15V. VB=0V Y VC=0V
 
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3
 
-![image](https://user-images.githubusercontent.com/105259381/176790626-c42c01c5-7836-4b4e-bf36-98f13d5c5ba5.png)
-
 ![image](https://user-images.githubusercontent.com/105259381/176792264-a3a0bbce-2077-4ca2-90c7-0656aba672e0.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105259381/176792421-c0bbc8a3-a1bc-4b8c-8fd0-a5967760f915.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176792485-4bfa182e-c2cc-41cf-9d32-9fdb8920c15a.png)
+
+#### SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105259381/176793709-2dec8b24-fa32-458d-9b1c-30d78fc0e43c.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176793879-af7cb275-51e9-4ffd-8a5a-abfa575640ca.png)
+
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/105259381/176796556-547ab8e1-c74d-4e30-8440-6a990cbd7f7d.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176796530-c876cd67-6d7d-4784-acc8-11d0a0a79b9b.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176796580-021cf130-8f43-4a6d-b403-5e2dac7965b6.png)
+
 
 
 
