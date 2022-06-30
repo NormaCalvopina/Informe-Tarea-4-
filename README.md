@@ -345,6 +345,18 @@ Las corrientes se calcularon en el literal 41
 
 ![image](https://user-images.githubusercontent.com/105259381/176745759-5e286ae5-6acb-45fe-9577-6be75734862e.png)
 
+Se vuelve a dibujar el circuito:
+
+![image](https://user-images.githubusercontent.com/105259381/176775162-68e6d4be-dbb5-40f6-b64c-e8dec0ab14cc.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176775360-fa346be7-00a3-404d-88fe-95802944338e.png)
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+
+![image](https://user-images.githubusercontent.com/105259381/176778450-c6fd7e3e-e8b3-47bb-8f5b-e2139a9c26ba.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176778418-e1ae5d6c-8e6a-492c-a681-44cd1dd7e3a5.png)
 
 
 
