@@ -147,6 +147,8 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 
 ## Resolución de los ejercicios Capítulo 7 
 
+#### SECCION 7-1 Identificación de relaciones en serie-paralelo
+
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
@@ -156,4 +158,19 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
 ![image](https://user-images.githubusercontent.com/105259381/176611603-05db50c5-9e1b-4853-bec5-449f609a4079.png)
+
+4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de las resistencias vistas desde la fuente.
+
+![image](https://user-images.githubusercontent.com/105259381/176612088-7480cc9b-e69c-463b-882f-f12b5f4b02e5.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176613060-c20e1a3f-49ba-4239-9c1a-9f308a34ede9.png)
+
+6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
+
+![image](https://user-images.githubusercontent.com/105259381/176613437-72030207-f51a-4bc7-996d-2c174526c150.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176614145-3e1f19da-b87e-42cb-b068-7bd30d204ebf.png)
+
+
+
 
