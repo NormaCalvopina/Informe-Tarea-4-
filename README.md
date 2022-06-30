@@ -147,3 +147,12 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 
 ## Resolución de los ejercicios Capítulo 7 
 
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+
+(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/105259381/176610650-d3e8f167-5ceb-48b3-b640-6f2c89b20552.png)
+
+
