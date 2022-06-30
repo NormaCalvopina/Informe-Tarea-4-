@@ -358,5 +358,33 @@ Se vuelve a dibujar el circuito:
 
 ![image](https://user-images.githubusercontent.com/105259381/176778418-e1ae5d6c-8e6a-492c-a681-44cd1dd7e3a5.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176784747-c0b62a56-96aa-48b6-8af1-aa3fd6566b65.png)
+
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![image](https://user-images.githubusercontent.com/105259381/176789361-b03968a1-8533-40d7-9480-580c8e065201.png)
+
+Si R2 se abre, VA=15V. VB=0V Y VC=0V
+
+
+## Resolución de los ejercicios Capítulo 8
+
+#### SECCIÓN 8–3 Conversiones de fuente
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes
+
+![image](https://user-images.githubusercontent.com/105259381/176789936-ac6a2d8b-448b-4063-874b-3186dd2ce3a6.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176790511-144ca3b8-f17e-4b81-a4c7-9a05f3a7dba3.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3
+
+![image](https://user-images.githubusercontent.com/105259381/176790626-c42c01c5-7836-4b4e-bf36-98f13d5c5ba5.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176792264-a3a0bbce-2077-4ca2-90c7-0656aba672e0.png)
+
+
+
 
 
