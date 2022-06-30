@@ -236,4 +236,56 @@ Corriente de rama izquierda y derecha
 
 ![image](https://user-images.githubusercontent.com/105259381/176620084-efd9d414-32c3-4839-8db3-c81551e34d63.png)
 
+22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+
+![image](https://user-images.githubusercontent.com/105259381/176620934-a9f2ffbd-4852-407f-9d30-ada87b34de1f.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176620988-ceaed8cf-575e-4c35-a78a-e86620c053cd.png)
+
+24. Determine el valor de cada resistor mostrado en la figura 7-73
+
+![image](https://user-images.githubusercontent.com/105259381/176621364-d0372e20-1b23-41d9-aed0-b7df37a999d0.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176621406-8d8e7d12-d4a9-4671-b356-f8c45f849920.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176621442-90a55555-b521-41bd-9863-bd2345839595.png)
+
+#### SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+
+26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+![image](https://user-images.githubusercontent.com/105259381/176623173-121830b7-c28a-4a1a-b6d3-3a9a1719431e.png)
+
+Con una resistencia de 10KΩconectada desde la toma A a tierra:
+
+![image](https://user-images.githubusercontent.com/105259381/176623413-87e827a0-f3e5-407d-90db-fbc8baa72dfb.png)
+
+28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
+
+![image](https://user-images.githubusercontent.com/105259381/176623830-d0593b59-53c3-426a-8bff-6777d309a8e2.png)
+
+! [imagen] (https://user-images.githubusercontent.com/105259381/176623709-fb97a038-4b17-4ea6-830e-b16198bd2a5b.png)
+
+
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
+
+![image](https://user-images.githubusercontent.com/105259381/176623777-49b7b531-81c2-409b-8158-215342980dcb.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176624013-63ebaae0-f5b9-4f6a-9394-25fdb0f671be.png)
+
+
+32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor
+
+![image](https://user-images.githubusercontent.com/105259381/176624547-18e7f612-51c3-48ba-96fa-a9c2c6e33cbf.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176624496-ff567f3f-b795-4aef-ad3f-f2575b814408.png)
+
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ . El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+![image](https://user-images.githubusercontent.com/105259381/176624945-acd5e0f7-e55f-43c6-9674-9f462e8bd154.png)
+
+#### SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+
+
 
