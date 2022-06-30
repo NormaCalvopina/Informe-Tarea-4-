@@ -151,8 +151,9 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
 
+![image](https://user-images.githubusercontent.com/105259381/176611231-78fcaf2d-0c1a-4937-ad7a-5dd45a506a5f.png)
+
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
-![image](https://user-images.githubusercontent.com/105259381/176610650-d3e8f167-5ceb-48b3-b640-6f2c89b20552.png)
-
+![image](https://user-images.githubusercontent.com/105259381/176611603-05db50c5-9e1b-4853-bec5-449f609a4079.png)
 
