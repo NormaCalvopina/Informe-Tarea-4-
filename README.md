@@ -220,7 +220,7 @@ El 1,8 kΩ y los dos 1 kΩ están en cortocircuito.
 
 ![image](https://user-images.githubusercontent.com/105259381/176619738-5eee6374-93b0-4b2a-8694-44059a984213.png)
 
-Resitencia de la rama derecha 
+Resistencia de la rama derecha 
 
 ![image](https://user-images.githubusercontent.com/105259381/176619785-bfb4e09f-2ddc-4aad-97a0-f0c4f9d25af0.png)
 
@@ -285,6 +285,65 @@ Con una resistencia de 10KΩconectada desde la toma A a tierra:
 ![image](https://user-images.githubusercontent.com/105259381/176624945-acd5e0f7-e55f-43c6-9674-9f462e8bd154.png)
 
 #### SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+36. Determine la resistencia interna de un voltímetro de 20,000 kΩ /V en cada uno de los siguientes ajustes de intervalo
+
+![image](https://user-images.githubusercontent.com/105259381/176724415-4ddfe9fb-8272-4f15-828c-b1e86b1f5793.png)
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/105259381/176718452-43c168eb-0d2c-46c6-aefa-d2ad66416da7.png)
+
+#### SECCIÓN 7–5 Redes en escalera
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
+![image](https://user-images.githubusercontent.com/105259381/176718753-172dcb4d-1d2d-4ff3-81e6-524adb91e848.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176720878-43b4c290-6406-418c-81b7-94cc63493e9f.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176720969-86e32a5f-1d48-4ddd-9c14-3e844cef101b.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![image](https://user-images.githubusercontent.com/105259381/176721986-31874bca-d2c4-4934-b0bd-65bc63667478.png)
+
+Las corrientes se calcularon en el literal 41 
+
+![image](https://user-images.githubusercontent.com/105259381/176722106-5c178400-cca6-41e1-82a4-39be636cc285.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: 
+
+![image](https://user-images.githubusercontent.com/105259381/176722855-b610e497-5169-4702-968f-ec9d4acae681.png)
+
+(a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/105259381/176723522-9c7c8efb-83af-4f7b-9cfb-4715a02dafb5.png)
+
+(b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/105259381/176723637-e00f162d-3f22-49f7-8def-feb0cb5c2d67.png)
+
+#### SECCIÓN 7–6 El puente Wheatstone
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV   18  y R2/R4   0.02. ¿Cuál es Rx?
+
+![image](https://user-images.githubusercontent.com/105259381/176734890-291f8615-1db8-4b03-bdb0-09b962a12356.png)
+
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60°C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+![image](https://user-images.githubusercontent.com/105259381/176735054-012fb96d-e133-496b-9375-112f4231ab84.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176744549-2588d188-71af-4c87-b317-93f06ba9efb7.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176745174-04be7fef-05a7-43ae-9cbe-49fdd73773ac.png)
+
+#### SECCIÓN 7–7 Localización de fallas
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![image](https://user-images.githubusercontent.com/105259381/176745759-5e286ae5-6acb-45fe-9577-6be75734862e.png)
 
 
 
