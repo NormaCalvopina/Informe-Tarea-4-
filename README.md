@@ -463,6 +463,34 @@ Para el circuito d
 
 ![image](https://user-images.githubusercontent.com/105259381/176800972-2a24275d-8b7e-4994-b833-a898bcadc449.png)
 
+Abro la fuente de corriente (hacer cero), elimino R4 y dibujo el circuito
+
+![image](https://user-images.githubusercontent.com/105259381/176803580-a14581b6-f069-4ac6-af1c-3c9ed507ee4b.png)
+
+
+Determino V1 debido a la fuente de 50V usando el circuito de Thevenin y realizo el dibujo del circuito:
+
+![image](https://user-images.githubusercontent.com/105259381/176803598-62ec5393-cb40-4bca-af02-fd2148ebe983.png)
+
+
+Hago cero la fuente de voltaje y elimino R4 y realizo el circuito.
+
+![image](https://user-images.githubusercontent.com/105259381/176803633-24e748ae-1835-462c-b1a3-e75bece96fcf.png)
+
+
+Obtengo V4 debido a la fuente de corriente usando el circuito de Thevenin
+
+![image](https://user-images.githubusercontent.com/105259381/176803661-377225c1-cf88-41ab-8fff-13867c2ecab6.png)
+
+
+Mediante el método de superposición se combina los voltajes de V4 y obtengo el voltaje total de R4:
+
+![image](https://user-images.githubusercontent.com/105259381/176803692-9443b6f5-9b55-4c6c-940b-5222033c5ab1.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/105259381/176803746-c18be273-20cb-4a6e-bb25-027c3ac78871.png)
+
 
 
 
