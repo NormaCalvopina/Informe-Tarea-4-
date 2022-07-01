@@ -273,7 +273,7 @@ Con una resistencia de 10KΩconectada desde la toma A a tierra:
 
 ![image](https://user-images.githubusercontent.com/105259381/176623830-d0593b59-53c3-426a-8bff-6777d309a8e2.png)
 
-! [imagen] (https://user-images.githubusercontent.com/105259381/176623709-fb97a038-4b17-4ea6-830e-b16198bd2a5b.png)
+![image](https://user-images.githubusercontent.com/105259381/176819473-2005e659-20ef-4808-89be-e5a56d482334.png)
 
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
