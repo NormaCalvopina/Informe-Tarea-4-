@@ -491,6 +491,52 @@ Mediante el método de superposición se combina los voltajes de V4 y obtengo el
 
 ![image](https://user-images.githubusercontent.com/105259381/176803746-c18be273-20cb-4a6e-bb25-027c3ac78871.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176804226-8b2c245d-245e-4ca8-81a9-0878005efe4b.png)
+
+Para determinar VTH vuelvo a dibujar el circuito:
+
+![image](https://user-images.githubusercontent.com/105259381/176804249-5660ea83-312c-48a3-a810-b1639747ad92.png)
+
+
+El circuito de Thévenin como se dibujó, la corriente en el punto A se determina para el valor de R8.
+
+![image](https://user-images.githubusercontent.com/105259381/176804267-e16ce23d-0f82-448a-b8d6-65abaf70e141.png)
+
+Para R8=1kΩ:
+
+![image](https://user-images.githubusercontent.com/105259381/176804316-7773314a-4f80-4139-8fc6-c3cd3efcd58c.png)
+
+Para R8=5kΩ:
+
+![image](https://user-images.githubusercontent.com/105259381/176804405-856b94ed-b610-4e60-b016-b94918365719.png)
+
+Para R8=10kΩ:
+
+![image](https://user-images.githubusercontent.com/105259381/176804420-a0749a0a-4669-4abd-a4a5-ec93aacaa8fe.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105259381/176804525-952fd9fb-01ba-4358-9009-ceb5632ada24.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176804635-a40696d9-505f-495a-982d-7f03f8d1dbb6.png)
+
+#### SECCIÓN 8–6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/105259381/176804713-620eeda2-f964-4199-9051-ae73bb57f253.png)
+
+
+Simplifico el circuito 
+
+![image](https://user-images.githubusercontent.com/105259381/176804799-5e8f30c0-ee0b-4963-bbab-369e6ad7aebc.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176805107-f9f02a33-c33d-4ef1-ab91-240cc738875a.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176805140-84fec7f0-323f-4241-a5dd-a0762d1bb549.png)
+
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8= 8 kΩ
 
 
 
