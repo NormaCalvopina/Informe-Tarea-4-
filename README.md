@@ -606,7 +606,7 @@ Se convierte delta formado por R3, R4 y R5 en una configuracion de estrella
 
 ![image](https://user-images.githubusercontent.com/105259381/176814416-25b8d2a8-01e4-4aca-a25d-2aa88a2fc4f3.png)
 
-4. CONCLUSIONES:
+### 4. CONCLUSIONES:
 
 -El teorema de superposición nos ayudó a abordar circuitos que tienen múltiples fuentes. Los teoremas de Thévenin y de Norton son métodos apropiados que nos ayudan a reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis.
 
@@ -616,11 +616,12 @@ Se convierte delta formado por R3, R4 y R5 en una configuracion de estrella
 
 -Para realizar un análisis correcto de un circuito serie- paralelo se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, luego se debe aplicar los conocimientos adquiridos en capítulos anteriores para calcular la resistencia, corriente y voltaje totales. 
 
-5. VIDEO
+### 5. VIDEO:
 
 
-6. BIBLIOGRAFÍA
 
+
+### 6. BIBLIOGRAFÍA:
 
 
 
