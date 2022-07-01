@@ -571,6 +571,33 @@ Simplifico el circuito
 
 ![image](https://user-images.githubusercontent.com/105259381/176812791-20b7c54b-6aa2-40c3-9eb8-b714c4ba5986.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176814123-1a0b1403-3d43-4bf5-b97c-0f018a1683cf.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176814152-9591878b-dad1-4b14-a3e6-7cc9e39b66db.png)
+
+
+#### SECCIÓN 8–8 Conversiones delta a Y, y Y a delta
+
+34. En la figura 8-88, convierta cada red delta en una red Y
+
+![image](https://user-images.githubusercontent.com/105259381/176814300-119c5c47-cfd7-46bb-b92b-b6005dc1fe30.png)
+
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/105259381/176814343-e01ea20e-e066-4184-bcb3-69c458ce4e6d.png)
+
+Se convierte delta formado por R3, R4 y R5 en una configuracion de estrella
+
+![image](https://user-images.githubusercontent.com/105259381/176814363-3d83a8b4-72e7-4755-96ab-83b8e51d4884.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176814386-04dfc48b-7e6c-4a3d-9a89-d84b1f01a431.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176814416-25b8d2a8-01e4-4aca-a25d-2aa88a2fc4f3.png)
+
+
 
 
 
