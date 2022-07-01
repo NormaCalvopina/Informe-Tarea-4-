@@ -618,12 +618,11 @@ Se convierte delta formado por R3, R4 y R5 en una configuracion de estrella
 
 ### 5. VIDEO:
 
-
-
+https://youtu.be/HxwKHnsOq9Q
 
 ### 6. BIBLIOGRAFÍA:
 
-
+Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación.
 
 
 
