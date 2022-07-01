@@ -9,7 +9,9 @@ Resolución de ejercicios Capitulo 7 y 8 del Libro de Floyd (Octava edición)
 
 #### Objetivos Generales
 
-Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar los métodos de análisis aprendidos para circuitos en serie y circuitos en paralelo, además incluir el divisor de voltaje con carga resistiva, la red en escalera, y el puente Wheatstone.
+Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar los métodos de análisis aprendidos para circuitos en serie y circuitos en paralelo, además incluir el divisor de voltaje con carga resistiva, la red en escalera, y el puente Wheatstone
+
+
 
 
 #### Objetivos Específicos
@@ -22,6 +24,11 @@ Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar 
 - Analizar divisores de voltaje con carga 
 
 - Determinar el efecto de carga de un voltímetro en un circuito 
+
+- Realizar conversiones de fuente y aplicar el teorema de superposición al análisis de circuitos
+
+-  Aplicar el teorema de Thévenin para simplificar un circuito para su análisis
+
 
 ### 2. MARCO TEORICO
 
@@ -144,6 +151,8 @@ Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fue
 
 ![image](https://user-images.githubusercontent.com/105259381/176609523-24218135-382f-4003-8b8d-6243e574387c.png)
 
+
+### 3. EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ## Resolución de los ejercicios Capítulo 7 
 
@@ -597,6 +606,20 @@ Se convierte delta formado por R3, R4 y R5 en una configuracion de estrella
 
 ![image](https://user-images.githubusercontent.com/105259381/176814416-25b8d2a8-01e4-4aca-a25d-2aa88a2fc4f3.png)
 
+4. CONCLUSIONES:
+
+-El teorema de superposición nos ayudó a abordar circuitos que tienen múltiples fuentes. Los teoremas de Thévenin y de Norton son métodos apropiados que nos ayudan a reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis.
+
+-El teorema de transferencia de potencia máxima sirve para aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga. Como se vio en los ejercicios y se aplicó el teorema, un ejemplo de esto es un amplificador de audio que suministra potencia máxima a un altavoz.
+
+-Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero.
+
+-Para realizar un análisis correcto de un circuito serie- paralelo se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, luego se debe aplicar los conocimientos adquiridos en capítulos anteriores para calcular la resistencia, corriente y voltaje totales. 
+
+5. VIDEO
+
+
+6. BIBLIOGRAFÍA
 
 
 
