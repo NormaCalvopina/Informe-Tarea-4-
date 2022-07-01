@@ -552,6 +552,26 @@ Simplifico el circuito
 
 ![image](https://user-images.githubusercontent.com/105259381/176811764-11f845b5-7a47-4205-8ea3-5e202f1d2a79.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176812531-d0b599a7-21d0-40b9-ab06-b85ced96ef40.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176812557-1c1e4bad-b2fc-4579-a8d4-5c100f4fe3de.png)
+
+
+#### SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/105259381/176812617-c99ce397-5c52-4f15-abe8-be3886295928.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176812728-f0e7e5ef-0156-4e30-a0cb-48cfb4ce915c.png)
+
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86? 
+
+![image](https://user-images.githubusercontent.com/105259381/176812791-20b7c54b-6aa2-40c3-9eb8-b714c4ba5986.png)
+
+
 
 
 
