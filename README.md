@@ -410,11 +410,60 @@ Si R2 se abre, VA=15V. VB=0V Y VC=0V
 ![image](https://user-images.githubusercontent.com/105259381/176798705-c0c8d39f-a42b-495e-af6d-d6320e30bf1c.png)
 
 
-
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
+![image](https://user-images.githubusercontent.com/105259381/176798863-d535792f-03ee-40e7-bff1-e21906a1731c.png)
 
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor
+
+![image](https://user-images.githubusercontent.com/105259381/176799274-95692d2b-55c5-4162-85a9-7b9bceeb1817.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176800483-18da8b06-ef57-494b-8a1e-da3d3b4955b5.png)
+
+SW1 Cerrado:
+
+![image](https://user-images.githubusercontent.com/105259381/176800521-d523a0b3-2466-40c0-83b5-1df24970a793.png)
+
+
+SW1 Y SW2 Cerrados 
+
+![image](https://user-images.githubusercontent.com/105259381/176800601-e4a83985-7231-46b1-976c-ea9bb5bd8b8e.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176800618-2028a301-eb24-48dd-8109-f19777b80971.png)
+
+SW1 Y SW2 Y SW3 Cerrados
+
+![image](https://user-images.githubusercontent.com/105259381/176800684-d1179f6e-9942-473c-a93f-376845c14f38.png)
+
+#### SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105259381/176800757-95553012-fce7-4889-a0a0-898328cec34f.png)
+
+Para el circuito a
+
+![image](https://user-images.githubusercontent.com/105259381/176800814-9144973a-3c1a-4274-afcb-ac1e97395b5e.png)
+
+Para el circuito b
+
+![image](https://user-images.githubusercontent.com/105259381/176800882-6008bad7-0fbb-4ec8-861a-407049b856b9.png)
+
+Para el circuito c
+
+![image](https://user-images.githubusercontent.com/105259381/176800926-800e6b7f-426d-405f-a65c-6b1ea77f08e9.png)
+
+
+Para el circuito d
+
+![image](https://user-images.githubusercontent.com/105259381/176800948-94bb8b6c-e6fb-40fa-a55c-ad53f11613e0.png)
+
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
+
+![image](https://user-images.githubusercontent.com/105259381/176800972-2a24275d-8b7e-4994-b833-a898bcadc449.png)
+
+
 
 
 
