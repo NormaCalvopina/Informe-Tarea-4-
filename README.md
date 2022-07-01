@@ -538,13 +538,19 @@ Simplifico el circuito
 
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8= 8 kΩ
 
-![image](https://user-images.githubusercontent.com/105259381/176811133-a5a73635-7f22-4078-84a0-8d1145b405b8.png)
+![image](https://user-images.githubusercontent.com/105259381/176811705-8bd5bf2a-9d94-443c-8555-ccc089b10558.png)
+
 
 ![image](https://user-images.githubusercontent.com/105259381/176811415-07ba0bd1-f6b2-419b-b6f5-23f7a8710b0b.png)
 
 ![image](https://user-images.githubusercontent.com/105259381/176811436-2d06d2e4-d6a8-4e50-a0ed-7e20f1115521.png)
 
 ![image](https://user-images.githubusercontent.com/105259381/176811463-0d5f59ac-7fbb-4414-90e7-59cc4a1b9fe8.png)
+
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/105259381/176811764-11f845b5-7a47-4205-8ea3-5e202f1d2a79.png)
 
 
 
