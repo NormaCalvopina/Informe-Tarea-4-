@@ -405,6 +405,8 @@ Si R2 se abre, VA=15V. VB=0V Y VC=0V
 
 ![image](https://user-images.githubusercontent.com/105259381/176796580-021cf130-8f43-4a6d-b403-5e2dac7965b6.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176797895-3be2c468-073c-4612-9c53-9908d22da8d0.png)
+
 
 12. Repita el problema 11 si R2 es de 10 kkΩ.
 
