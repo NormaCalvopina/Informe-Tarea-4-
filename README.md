@@ -11,7 +11,7 @@ Resolución de ejercicios Capitulo 7 y 8 del Libro de Floyd (Octava edición)
 
 Combinar el circuito en Serie y en Paralelo dentro del mismo circuito y aplicar los métodos de análisis aprendidos para circuitos en serie y circuitos en paralelo, además incluir el divisor de voltaje con carga resistiva, la red en escalera, y el puente Wheatstone
 
-
+Conocer el concepto del método de superposición, teorema de Thévenin, Teorema de Norton, conversiones de fuente; para resolver los ejercicios planteados en los capítulo 7 y 8, además se deberá aplicar algunos métodos estudiados anteriormente para desarrollar correctamente cada problema.
 
 
 #### Objetivos Específicos
