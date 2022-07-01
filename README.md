@@ -406,6 +406,10 @@ Si R2 se abre, VA=15V. VB=0V Y VC=0V
 ![image](https://user-images.githubusercontent.com/105259381/176796580-021cf130-8f43-4a6d-b403-5e2dac7965b6.png)
 
 
+12. Repita el problema 11 si R2 es de 10 kkΩ.
+
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor
 
 
 
